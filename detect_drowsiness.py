@@ -17,7 +17,6 @@ import matplotlib.gridspec as gridspec
 from matplotlib import pyplot as plt
 from collections import OrderedDict
 import numpy as np
-import cv2
 
 # activating the alarm
 def sound_alarm(path):
